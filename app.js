@@ -1,1 +1,1 @@
-console.log('Feature B version');
+console.log("Feature A + Feature B merged");
