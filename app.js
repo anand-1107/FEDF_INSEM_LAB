@@ -1,1 +1,1 @@
-console.log('Hello GitHub');
+console.log('Feature B version');
